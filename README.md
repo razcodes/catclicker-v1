@@ -11,7 +11,6 @@ In order to run the website:
 Switch between cats by clicking the different cat buttons.
 Click the image to increase the click count.
 Each cat has it's own click count.
-Now click away.
 
 ## Built With
 * HTML5
