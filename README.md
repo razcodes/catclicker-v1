@@ -7,7 +7,7 @@ In order to run the website:
 * Download the repository files.
 * Run the `index.html` file with your browser in order to load the website locally.
 
-## What to expect
+## How to use
 Switch between cats by clicking the different cat buttons.
 Click the image to increase the click count.
 Each cat has it's own click count.
