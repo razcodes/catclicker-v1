@@ -1,6 +1,5 @@
 ## Cat Clicker v1
 First version of the cat clicker.
-This version is non-MVC.
 
 ## Instruction
 In order to run the website:
